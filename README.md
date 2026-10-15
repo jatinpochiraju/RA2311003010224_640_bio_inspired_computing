@@ -1,6 +1,6 @@
 # Knapsack-based resource allocation using genetic algorithm
 
-## Team details
+## Team details-
 - Name: N V Jatin Pochiraju | RA No: RA2311003010224
 - Name: Rajyalaxmi Mishra | RA No: RA2311003010640
 
