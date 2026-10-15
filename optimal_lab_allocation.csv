@@ -1,0 +1,11 @@
+id,name,cost,benefit,efficiency
+2,Industrial 3D Printer,150000,70,0.467
+3,Precision Sensor Kit,100000,50,0.5
+5,GPU Server Cluster,175000,85,0.486
+6,IoT Edge Lab Kit,75000,35,0.467
+8,Digital Oscilloscope,90000,45,0.5
+9,Network Analyzer,110000,55,0.5
+10,Embedded Systems Bench,60000,30,0.5
+12,Multimeter Calibration Rig,40000,18,0.45
+13,FPGA Embedded Board,80000,42,0.525
+14,Thermal Diagnostic Camera,120000,58,0.483
